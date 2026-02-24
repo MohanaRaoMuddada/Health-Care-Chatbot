@@ -130,5 +130,3 @@ This project is for **educational purposes only** and should **not be used as a 
 * Integration with hospital databases
 
 ---
-
-Give it a **star** on GitHub and feel free to contribute!
